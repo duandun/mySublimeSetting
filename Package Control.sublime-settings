@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ColorPicker",
+		"CSS Format",
+		"EclipseJavaFormatter",
+		"Emmet",
+		"HTML5",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"jQuery",
+		"jQueryDocs",
+		"JsFormat",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SyncedSideBar"
+	]
+}
