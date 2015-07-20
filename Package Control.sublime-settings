@@ -4,19 +4,29 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
+		"AngularJS Snippets",
 		"AutoFileName",
 		"ColorPicker",
 		"CSS Format",
+		"D3.js Snippets",
 		"EclipseJavaFormatter",
+		"EJS",
 		"Emmet",
 		"HTML5",
+		"Jade",
 		"Javascript Beautify",
 		"JavaScript Completions",
 		"jQuery",
 		"jQueryDocs",
 		"JsFormat",
+		"LESS",
+		"Markdown Extended",
 		"Package Control",
 		"RailsCasts Colour Scheme",
-		"SyncedSideBar"
+		"SCSS",
+		"Stylus",
+		"SyncedSideBar",
+		"Tag"
 	]
 }
