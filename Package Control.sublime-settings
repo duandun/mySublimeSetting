@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AngularJS",
 		"AngularJS Snippets",
 		"AutoFileName",
@@ -13,6 +14,7 @@
 		"EclipseJavaFormatter",
 		"EJS",
 		"Emmet",
+		"Focus File on Sidebar",
 		"HTML5",
 		"Jade",
 		"Javascript Beautify",
@@ -21,10 +23,12 @@
 		"jQueryDocs",
 		"JsFormat",
 		"LESS",
-		"Markdown Extended",
+		"MarkdownEditing",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SCSS",
+		"SideBarEnhancements",
+		"SideBarFolders",
 		"Stylus",
 		"SyncedSideBar",
 		"Tag"
